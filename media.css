@@ -1,0 +1,9 @@
+@media (max-width: 1200px) {
+    .calendar {
+        width: 20em;
+        font-size: 75%;
+    }
+    .calendar-grid {
+        grid-column-gap: 1em;
+    }
+}
